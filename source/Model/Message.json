@@ -1,0 +1,6 @@
+{
+  "params": {
+    "contents": "Model.Content[]",
+    "_contents": "The Content element belong to Message"
+  }
+}

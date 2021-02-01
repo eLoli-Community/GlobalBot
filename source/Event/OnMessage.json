@@ -1,0 +1,9 @@
+{
+  "params": {
+    "sender": "Model.Sender[]",
+    "_sender": "Who send the message",
+    "message": "Model.Message",
+    "_message": "Message content",
+    "sendTime": "int"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "params": {
+    "plainText": "string",
+    "_plainText": "Force convert to string"
+  }
+}

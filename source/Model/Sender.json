@@ -1,0 +1,6 @@
+{
+  "params": {
+    "uuid": "string",
+    "_uuid": "The uuid for User"
+  }
+}
